@@ -1,0 +1,79 @@
+@import url("./components/modal-style.css");
+
+  body {
+    background-color: #282c34;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .principal-title {
+    margin-top: 13%;
+    text-align: center;
+    font-weight: 700;
+    font-size: 5.5rem;
+    color: #FFFFFF;
+  }
+  
+  .App-header {
+    max-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    background: rgba(255, 184, 0, 0.37);
+    color: #FFFFFF;
+    border: 3px solid #FFB800;
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-decoration: none;
+    padding: 0.5rem 2rem;
+    text-align: center;
+  }
+  
+  .content-app {
+    background-color: #282c34;
+    margin: 3% 5%;
+  }
+
+  .content-header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .content-header .title-app {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 2.188rem;
+    margin: 0;
+  }
+  
+  .line {
+    border: 0.125rem solid #FFB800;
+  }
+
+  .content-img {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .img {
+    margin: 0;
+    width: 12.5rem;
+    height: 15.625rem;
+    margin: 0.625rem 0.625rem 0.625rem 0;
+    cursor: pointer;
+  }
+
+  .withous-style {
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    border: none;
+  }
