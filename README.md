@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+## App Views
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Home View
+
+![image](https://user-images.githubusercontent.com/30103350/179800283-8334c72b-c01a-42d6-af48-4cf62061d212.png)
+
+List Art
+
+![image](https://user-images.githubusercontent.com/30103350/179800763-8d788a56-02a9-46e6-962b-7832c1dcae6c.png)
+
+Details
+
+![image](https://user-images.githubusercontent.com/30103350/179800927-09a3ea6d-9520-4477-a172-a11a3d000389.png)
 
 ## Available Scripts
 
